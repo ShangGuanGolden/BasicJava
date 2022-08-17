@@ -1,4 +1,4 @@
-# Java-infomation-example-code-
+# HashMap
 
 import java.util.HashMap;
 public class L2Unit1Mission5HashMaps {
